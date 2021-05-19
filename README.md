@@ -6,7 +6,7 @@
 4. Create a new notebook in Google Colab and then enter the following line to clone all the files to your Google Drive:
 !git clone https://github.com/NikitaSSerov/EMRIS.git
 
-Easy as that :)
+   Easy as that :)
 
 # HOW TO USE
 
