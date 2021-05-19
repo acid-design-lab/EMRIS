@@ -1,5 +1,5 @@
 # HOW TO USE
 
-# Please read before using it!
-
+1. Create an account in Google Colab (for instance, using your main Google account).
+2. 
 
