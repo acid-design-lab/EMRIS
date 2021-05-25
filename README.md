@@ -23,9 +23,28 @@
 # HOW TO USE
 
 1. Create a table of synthesis parameters, where each of the syntheses is indexed, and upload it on your Google Drive either in .xlsx or .csv format.
+
 2. Create the folder with your images on Google Drive (.tif, .png, .jpeg files are supported), where its names represent indexes in the syntheses table created on step 1.
-3. Unpack EMRIS GitHub files with the following command:
+
+3. Unpack EMRIS GitHub files with the following command (if it was not done before):
 !git clone https://github.com/NikitaSSerov/EMRIS.git
-4. Open TOOL.py file and fill in all the information above regarding file destinations, query image, as well as the search type (image or contour).
+
+4. Open EMRIS tool.ipynb file and fill in all the information above regarding file destinations, query image, number of similar images to show, as well as the search type (image or contour).
+
 5. Run the whole code (Ctrl+F9) and see the result below.
 
+# ISSUES FACED AND SOLUTIONS
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+If your problem is not in the list, You can contact us anytime using:
+1. E-mail: serov@scamt-itmo.ru
+2. WhatsApp / Telegram: +7 (977) 509-91-81 
