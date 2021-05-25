@@ -4,6 +4,7 @@
 2. Create a Google Drive account: https://drive.google.com.
 3. Connect Google Colab to your Google Drive: https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/.
 4. Create a new notebook in Google Colab and then enter the following line to clone all the files to your Google Drive:
+
 !git clone https://github.com/NikitaSSerov/EMRIS.git
 
    Easy as that :)
@@ -16,6 +17,4 @@
 !git clone https://github.com/NikitaSSerov/EMRIS.git
 4. Open TOOL.py file and fill in all the information above regarding file destinations, query image, as well as the search type (image or contour).
 5. Run the whole code (Ctrl+F9) and see the result below.
-
-# INSTRUCTIONS AND RECOMMENDATIONS
 
