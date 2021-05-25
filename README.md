@@ -7,7 +7,7 @@
 
    !git clone https://github.com/NikitaSSerov/EMRIS.git
 
-Easy as that :)
+ Easy as that :)
 
 # HOW TO USE
 
