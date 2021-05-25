@@ -7,6 +7,7 @@
 3. Connect Google Colab to your Google Drive by typing and running the following command in a new project of Google Colab:
 
    from google.colab import drive
+   
    drive.mount(‘/content/gdrive’)
    
    See more detailed instructions here: https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/.
